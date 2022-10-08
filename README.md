@@ -1,7 +1,7 @@
 ## Who I am
 I am currently a software engineer with eyes for details and a dream to be an archetict
 
-![linkedin profile](https://www.linkedin.com/in/awad-osman/)
+[linkedin profile](https://www.linkedin.com/in/awad-osman/)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ta50&theme=blue-green)
