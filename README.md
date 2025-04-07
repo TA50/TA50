@@ -7,7 +7,3 @@ and user experience
 
 [linkedin profile](https://www.linkedin.com/in/awad-osman/)
 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ta50&theme=blue-green)
-
-
