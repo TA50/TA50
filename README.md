@@ -1,13 +1,13 @@
 ## Who I am
-I am currently a software engineer with eyes for details and a dream to be an architect
+Results-driven Full-Stack Software Engineer with over four years of experience designing and deploying scalable,
+high-quality web applications. Skilled in C#, JavaScript, ReactJS, and NestJS, adept at applying modern design
+principles and agile methodologies. Known for leading feature development from conception to deployment,
+optimizing system performance, and consistently championing best practices to ensure exceptional code quality
+and user experience
 
 [linkedin profile](https://www.linkedin.com/in/awad-osman/)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ta50&theme=blue-green)
 
-
-
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
